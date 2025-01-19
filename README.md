@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stefanbe99github
+- 👋 Hi, I’m Stefanbe
 - 👀 I’m interested in IT, gaming and tech
 - 🌱 I’m currently learning cloud and infrastructure, html, coding
 - 💞️ I’m looking to collaborate 
